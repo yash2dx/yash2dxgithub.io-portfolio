@@ -371,7 +371,7 @@ section .title::after{
 .skills-content .right .js::before{
     width: 85%;
 }
-.skills-content .right .react::before{
+.skills-content .right .php::before{
     width: 90%;
 }
 .skills-content .right .mysql::before{
