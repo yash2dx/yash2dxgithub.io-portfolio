@@ -389,6 +389,8 @@ section .title::after{
     text-align: center;
     overflow: hidden;
     transition: all 0.3s ease;
+    cursor: pointer;
+
 }
 .teams .carousel .card:hover{
     background: crimson;
