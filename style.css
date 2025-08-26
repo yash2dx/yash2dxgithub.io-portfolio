@@ -285,7 +285,7 @@ section .title::after{
 .skills-content .right .mysql::before{ width: 100%; }
 
 /* teams section styling */
-.teams .title::after{ content: "From Whom I have Learned"; }
+.teams .title::after{ content: "Learned From"; }
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
