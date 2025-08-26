@@ -141,7 +141,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/card.jpg") no-repeat center;
+    background: url("images/y6.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -278,11 +278,11 @@ section .title::after{
     top: 0;
     background: #BA6AC8;
 }
-.skills-content .right .html::before{ width: 90%; }
-.skills-content .right .css::before{ width: 85%; }
-.skills-content .right .js::before{ width: 85%; }
-.skills-content .right .php::before{ width: 90%; }
-.skills-content .right .mysql::before{ width: 80%; }
+.skills-content .right .html::before{ width: 100%; }
+.skills-content .right .css::before{ width: 100%; }
+.skills-content .right .js::before{ width: 100%; }
+.skills-content .right .php::before{ width: 100%; }
+.skills-content .right .mysql::before{ width: 100%; }
 
 /* teams section styling */
 .teams .title::after{ content: "Who I have worked with and learned from"; }
